@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lieu-Île--de--France-007EC6?style=flat-square&logo=google-maps&logoColor=white" alt="Lieu" />
-  <img src="https://img.shields.io/badge/Disponibilité-Alternance_2026-28A745?style=flat-square&logo=clock&logoColor=white" alt="Dispo" />
   <img src="https://img.shields.io/badge/Diplôme-Licence_2_Informatique-FFC107?style=flat-square&logo=gitbook&logoColor=white" alt="Diplome" />
 </p>
 
